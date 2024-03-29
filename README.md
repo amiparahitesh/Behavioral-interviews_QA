@@ -53,7 +53,7 @@ I found it really helpful during my preparation.
 Create a sheet and list down common questions and their answers for each project. 
 
 You can clone the Notion page and fill this sheet based on your experience.
-![Interview Preparation Grid](images/interview-preparation-grid.png)
+![Interview Preparation Grid](interview-preparation-grid.png)
 
 
 ## Questions
